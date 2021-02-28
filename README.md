@@ -2,10 +2,15 @@
 
 This is a repository of tools and resources for organizing and managing the PhD process to compliment the presentation: [Managing Your PhD](https://github.com/pete-lawson/managing-your-phd/raw/main/resources/managing-your-phd.pdf). 
 
-### Markdown
+### Managing Literature Reviews
 
+#### Citation Manager
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+#### Setting up Alerts
+
+
+#### Useful Applications
 ```markdown
 Syntax highlighted code block
 

@@ -10,9 +10,11 @@ Over the course of your PhD you will read, review, and collect a large body of l
 
 Common reference managers include:
 
-[Zotero](https://www.zotero.org/)
-[Mendeley](https://www.mendeley.com/)
-[EndNote](https://libguides.tulane.edu/endnote)
+Reference Manager | Description
+------------ | -------------
+[Zotero](https://www.zotero.org/) | Open Source reference manager available on Windows, Mac, and Linux
+[Mendeley](https://www.mendeley.com/) | Reference manager available on all operating systems with apps for Android and iOS
+[EndNote](https://libguides.tulane.edu/endnote) | Reference manager for Windows and Mac, EndNote 20 is available free for all Tulane students
 
 #### Setting up Alerts
 

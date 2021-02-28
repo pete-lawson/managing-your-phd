@@ -4,8 +4,15 @@ This is a repository of tools and resources for organizing and managing the PhD 
 
 ### Managing Literature Reviews
 
-#### Citation Manager
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Reference Manager
+
+Over the course of your PhD you will read, review, and collect a large body of literature that you will need to keep organized. Using a reference manager is the best way to do this.
+
+Common reference managers include:
+
+[Zotero](https://www.zotero.org/)
+[Mendeley](https://www.mendeley.com/)
+[EndNote](https://libguides.tulane.edu/endnote)
 
 #### Setting up Alerts
 

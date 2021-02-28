@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Managing Your PhD
 logo: "./images/stack.jpg"
+show_downloads: "true"

@@ -21,7 +21,8 @@ Reference Manager | Description
 ### Finding Focus
 
 #### Get More Efficient with Pomodoros'
-![Pomodoro Tomato](https://raw.githubusercontent.com/pete-lawson/managing-your-phd/main/images/pomodoro.png)
+
+<img src="https://raw.githubusercontent.com/pete-lawson/managing-your-phd/main/images/pomodoro.png" alt="Pomodoro Tomato" width="200"> 
 
 #### Useful Applications
 ```markdown

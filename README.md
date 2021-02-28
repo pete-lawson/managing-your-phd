@@ -18,6 +18,10 @@ Reference Manager | Description
 
 #### Setting up Alerts
 
+### Finding Focus
+
+#### Get More Efficient with Pomodoros'
+![Pomodoro Tomato](https://raw.githubusercontent.com/pete-lawson/managing-your-phd/main/images/pomodoro.png)
 
 #### Useful Applications
 ```markdown

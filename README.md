@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Managing your PhD
+### TOols and Techniques for Managing your PhD
 
 You can use the [editor on GitHub](https://github.com/pete-lawson/managing-your-phd/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

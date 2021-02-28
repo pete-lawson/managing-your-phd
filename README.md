@@ -1,6 +1,6 @@
 ## Managing your PhD
 
-This is a repository of tools and resources for organizing and managing the PhD process to compliment the presentation [Managing Your PhD](https://github.com/pete-lawson/managing-your-phd/raw/main/resources/managing-your-phd.pdf). 
+This is a repository of tools and resources for organizing and managing the PhD process to compliment the presentation: [Managing Your PhD](https://github.com/pete-lawson/managing-your-phd/raw/main/resources/managing-your-phd.pdf). 
 
 ### Markdown
 
